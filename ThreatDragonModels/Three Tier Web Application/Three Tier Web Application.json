@@ -233,13 +233,6 @@
               "isWebApplication": false,
               "privilegeLevel": "",
               "threats": []
-            },
-            "tools": {
-              "items": [
-                "boundary",
-                "button-remove"
-              ],
-              "name": null
             }
           },
           {
@@ -789,6 +782,6 @@
     ],
     "diagramTop": 2,
     "reviewer": "A product security team",
-    "threatTop": 2
+    "threatTop": 3
   }
 }
